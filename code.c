@@ -1,3 +1,11 @@
+/*
+* @project sum_practice21
+* @author Тертышная Ю.А., группа 515-и
+* @date 30.06.2021
+* @brief Учебная практика
+* @task Анаграмма с удалением знаков препинания и перемешиванием символов
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
